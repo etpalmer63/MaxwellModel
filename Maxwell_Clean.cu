@@ -4,7 +4,7 @@
  * March 1, 2017
  *
  * This is stripped down version for public sharing. This code 
- * simulates an elastic dumbbells based on the 
+ * simulates elastic dumbbells based on the 
  * Upper Convective Maxwell (UCM) model. 
  *
  * Global variables are used for important parameters, and 
